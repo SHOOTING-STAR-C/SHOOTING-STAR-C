@@ -13,11 +13,14 @@
 
 -------
 ## 📈 Worktime
+<details open>
+<summary>Wakatime</summary>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+</details>
 
 <details>
-<summary>GitHub stats（点击展开）</summary>
+<summary>GitHub stats</summary>
 
 ## GitHub stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=SHOOTING-STAR-C&show_icons=true&theme=default)](https://github.com/SHOOTING-STAR-C)
