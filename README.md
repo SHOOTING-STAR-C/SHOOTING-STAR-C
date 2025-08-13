@@ -16,13 +16,13 @@
 <details open>
 <summary>Wakatime</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-21-blue)
+![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-33-blue)
 
 **🐱 我的 GitHub 数据** 
 
-> 📦  使用了 331 Bytes GitHub 存储空间 
+> 📦  使用了 347 Bytes GitHub 存储空间 
  > 
 > 🏆 74 个贡献，在 2025 年
  > 
@@ -96,7 +96,7 @@ Java                     1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SHOOTING-STAR-C/SHOOTING-STAR-C/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2025 09:00:27 UTC
+ Last Updated on 13/08/2025 18:52:51 UTC
 <!--END_SECTION:waka-->
 </details>
 
