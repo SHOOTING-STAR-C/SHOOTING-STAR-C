@@ -13,8 +13,6 @@
 
 -------
 ## 📈 Worktime
-<details open>
-<summary>Wakatime</summary>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2031%20mins-blue)
 
@@ -97,7 +95,6 @@ Java                     1 repo              █████░░░░░░�
 
  Last Updated on 12/08/2025 18:54:20 UTC
 <!--END_SECTION:waka-->
-</details>
 
 <details>
 <summary>GitHub stats</summary>
