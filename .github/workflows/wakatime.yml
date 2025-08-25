@@ -17,7 +17,6 @@ jobs:
           LOCALE: zh
           SHOW_TITLE: false
           SECTION_NAME: waka
-          BLOCKS: "" # 设置为空字符串以隐藏时间线块图
           SHOW_TIME: false
           SHOW_TOTAL: false
           SHOW_MASKED_TIME: false
@@ -27,3 +26,6 @@ jobs:
           SHOW_OS: true
           SHOW_PROJECTS: false # 隐藏项目数据（GitHub相关）
           SHOW_BRANCHES: false # 隐藏分支数据（GitHub相关）
+          SYMBOL_VERSION: "2" # 设置为进度条的符
+          SHOW_SHORT_INFO: "False" # 用户的简短趣闻信息
+
