@@ -14,7 +14,7 @@
 -------
 ## 📈 Worktime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2024%20mins-blue)
 
 **我是夜猫子 🦉** 
 
@@ -65,7 +65,7 @@ Java                     1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 29/11/2025 01:47:15 UTC
+ Last Updated on 30/11/2025 02:01:16 UTC
 <!--END_SECTION:waka-->
 
 <details>
