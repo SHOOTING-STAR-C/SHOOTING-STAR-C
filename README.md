@@ -1,11 +1,6 @@
 # 你好，我是SHOOTING-STAR-C 👋 
 > 全栈开发者 | LLM聊天机器人爱好者 | 开源爱好者 
 
-## 🎓 关于我
-- 计算机科学与技术专业
-- 热爱编程与开源技术
-- 持续学习新技术并实践
-
 ## 🛠️ 技术栈
 **后端**: ![Java](https://img.shields.io/badge/Java-熟练-blue) ![Python](https://img.shields.io/badge/Python-掌握-green)  
 **前端**: ![HTML](https://img.shields.io/badge/HTML-熟练-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-熟练-blue) ![Vue](https://img.shields.io/badge/Vue.js-熟练-blue)  

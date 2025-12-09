@@ -22,7 +22,7 @@ jobs:
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: false
           SHOW_LANGUAGES: false # 隐藏最常使用的语言
-          SHOW_EDITORS: true
+          SHOW_EDITORS: false
           SHOW_OS: false
           SHOW_PROJECTS: false # 隐藏项目数据（GitHub相关）
           SHOW_BRANCHES: false # 隐藏分支数据（GitHub相关）
@@ -30,5 +30,7 @@ jobs:
           SHOW_SHORT_INFO: "False" # 用户的简短趣闻信息
           SHOW_LOC_CHART: "False" # 年份不同季度编写的代码行数
           SHOW_PROFILE_VIEWS: "False" # 年份不同季度编写的代码行数
+          SHOW_DAYS_OF_WEEK: "False" # 周
+          SHOW_TIMEZONE: "False" # 周
 
 
