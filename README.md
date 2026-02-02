@@ -9,8 +9,6 @@
 -------
 ## 📈 Worktime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2015%20mins-blue?style=flat)
-
 **我是早鸟 🐤** 
 
 ```text
@@ -43,7 +41,7 @@ Java                     1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 01/02/2026 02:44:49 UTC
+ Last Updated on 02/02/2026 02:34:41 UTC
 <!--END_SECTION:waka-->
 
 <details>
