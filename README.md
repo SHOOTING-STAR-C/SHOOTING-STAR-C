@@ -26,33 +26,33 @@
 
 ```text
 💬 编程语言: 
-Java                     22 hrs 22 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   67.30 % 
-SQL                      4 hrs 10 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.56 % 
-Markdown                 3 hrs 23 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.18 % 
-XML                      1 hr 9 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.51 % 
-Groovy                   27 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.37 % 
+Java                     20 hrs 38 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   62.69 % 
+Markdown                 4 hrs 17 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.02 % 
+SQL                      4 hrs 15 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.94 % 
+XML                      1 hr 13 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.71 % 
+Other                    30 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.56 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 40 mins (65.22%)
+⏱ AI Coding Time: 23 hrs 7 mins (70.21%)
 
-✍️ 1,988 lines written by AI, 1,753 lines written by hand (53.14% AI-written)
+✍️ 2,521 lines written by AI, 1,677 lines written by hand (60.05% AI-written)
 
-🔤 197,830,344 Input Tokens, 821,232 Output Tokens
+🔤 146,349,493 Input Tokens, 845,377 Output Tokens
 
-💵 $317.51 Estimated AI Cost This Week
+💵 $246.06 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 240 AI Prompts
+🧠 37 AI Sessions, 240 AI Prompts
 
-Deepseek                 1,006 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Deepseek                 907 lines           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 53.14% of written lines came from AI
-📄 Detailed Prompter — average 699 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 54.43% of changed lines were hand-edited
+⚖️ Balanced with AI — 60.05% of written lines came from AI
+📄 Detailed Prompter — average 689 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 47.52% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
@@ -68,7 +68,7 @@ Java                     1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 10/08/2026 02:03:07 UTC
+ Last Updated on 11/08/2026 01:58:18 UTC
 <!--END_SECTION:waka-->
 
 <details>
