@@ -21,7 +21,7 @@ jobs:
           SHOW_TOTAL: false
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: false
-          SHOW_LANGUAGES: false # 隐藏最常使用的语言
+          SHOW_LANGUAGES: true # 隐藏最常使用的语言
           SHOW_EDITORS: false
           SHOW_OS: false
           SHOW_PROJECTS: false # 隐藏项目数据（GitHub相关）
@@ -32,5 +32,7 @@ jobs:
           SHOW_PROFILE_VIEWS: "False" # 年份不同季度编写的代码行数
           SHOW_DAYS_OF_WEEK: "False" # 周
           SHOW_TIMEZONE: "False" # 周
+          SHOW_AI_CODE_TIME: "False"
+          SHOW_AI_CODING: "False"
 
 
