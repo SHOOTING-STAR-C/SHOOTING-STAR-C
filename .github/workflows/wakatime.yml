@@ -16,7 +16,8 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LOCALE: zh
           SECTION_NAME: waka
-          SHOW_LANGUAGE: false # 隐藏最常使用的语言
+          SHOW_LANGUAGE: true # 保留每周编程语言统计
+          SHOW_LANGUAGE_PER_REPO: false # 隐藏最常使用的语言/仓库统计
           SHOW_COMMIT: false # 隐藏早鸟/提交时间统计
           SHOW_TOTAL_CODE_TIME: true # 显示累计编程总时间
           SHOW_EDITORS: false
